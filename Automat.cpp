@@ -22,6 +22,7 @@ Automat::Automat()
 // default destructor
 Automat::~Automat()
 {
+    
 } // ~Automat
 
 
